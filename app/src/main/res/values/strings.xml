@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiceGames</string>
+    <string name="wallet_label">Click the Die to roll.\n You earn 5 coins every time you roll a six!</string>
+    <string name="coins">Coins: </string>
+    <string name="zero">0</string>
+</resources>
