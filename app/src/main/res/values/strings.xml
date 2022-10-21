@@ -3,4 +3,14 @@
     <string name="wallet_label">Click the Die to roll.\n You earn 5 coins every time you roll a six!</string>
     <string name="coins">Coins: </string>
     <string name="zero">0</string>
+    <string name="wager">Wager</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="guess">Guess the Sum</string>
+    <string name="even">Even</string>
+    <string name="odd">Odd</string>
+    <string name="roll">Roll</string>
+    <string name="info">Info</string>
+    <string name="chohan">Cho-Han</string>
+    <string name="cho_han_url">https://en.wikipedia.com/wiki/Chō-han</string>
 </resources>

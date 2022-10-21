@@ -39,10 +39,19 @@
         android:id="@+id/btn_roll"
         android:layout_width="128dp"
         android:layout_height="128dp"
-        android:background="@color/colorPrimary"
+        android:backgroundTint="@color/teal_700"
         android:text="@string/zero"
         android:textAlignment="center"
         android:textSize="72sp"
-        android:textColor="@color/teal_200"/>
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btn_launch_chohan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/teal_700"
+        android:text="@string/chohan"
+        android:textColor="@color/white"
+        android:layout_marginTop="96dp"/>
 
 </LinearLayout>
